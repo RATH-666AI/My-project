@@ -31,13 +31,13 @@ pip install faiss-gpu
 
 ##Usage method
 
-### 1. Run SEPER evaluation
-```bash
-python seper_evaluation_main.py
-```
-### 2. Run RAGAS evaluation
+### 1. Run RAGAS evaluation
 ```bash
 python ragas_evaluation_main.py
+```
+### 2. Run SEPER evaluation
+```bash
+python seper_evaluation_main.py
 ```
 ### 3. Generate comparative analysis and visualization
 ```bash
